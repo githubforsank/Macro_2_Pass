@@ -1,0 +1,12 @@
+_	23	_
+_	dff	_
+_	A	1,DATA
+_	A	2,DATA
+_	A	3,DATA
+_	jkk	jkl
+_	S	1,DATA
+_	S	2,DATA
+_	S	3,DATA
+op	uio	op
+_	INCRD	RUB,DATA1,DATA2,DAT +Fw€)Fw
+_	INCRD	RUB,DATA1,DATA2,DAT +Fw€)Fw
